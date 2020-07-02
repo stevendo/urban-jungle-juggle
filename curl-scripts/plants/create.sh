@@ -22,4 +22,4 @@ curl "${API}${URL_PATH}" \
 echo
 
 # COMNAME="Pancake Plant" SPECNAME="Pilea Peperomioides" NICKNAME="Larry" WATREQ="Mostly dry before waterings" SUNREQ="Avoid direct sun" SOILREQ="Well draining potting soil" TOKEN=2a038be932ff549396f91135d738001e sh curl-scripts/plants/create.sh
-# COMNAME="Spider Plant" SPECNAME="Chlorophytum Comosum" NICKNAME="Harry" WATREQ="Dry before waterings" SUNREQ="Avoid direct sun" SOILREQ="Well draining potting soil" TOKEN=0f6ba87d4e20b84dcc2792bbb47120bf sh curl-scripts/plants/create.sh
+# COMNAME="Spider Plant" SPECNAME="Chlorophytum Comosum" NICKNAME="Harry" WATREQ="Dry before waterings" SUNREQ="Avoid direct sun" SOILREQ="Well draining potting soil" TOKEN=3231ce0062d33679b5eb5257accf37d3 sh curl-scripts/plants/create.sh
