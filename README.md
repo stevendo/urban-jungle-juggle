@@ -29,8 +29,9 @@ After the major features of the database have been established, there is room fo
 * Future versions will allow for uploading and displaying images.
 
 ## Images
-[Imgur](https://imgur.com/OBey2uc)
+[Entity Relationship Diagram](https://imgur.com/OBey2uc)
 
 ## Links
-[Github](https://stevendo.github.io/urban-jungle-juggle-client/)
-[Heroku](https://git.heroku.com/polar-tundra-79343.git)
+## Links
+[Deployed Github](https://stevendo.github.io/urban-jungle-juggle-client/)
+[Deployed Heroku](https://git.heroku.com/polar-tundra-79343.git)
