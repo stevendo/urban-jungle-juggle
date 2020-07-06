@@ -26,7 +26,7 @@ const plantSchema = new mongoose.Schema({
     required: true
   },
   image: {
-    type: String,
+    type: Stringg
   },
   owner: {
     type: mongoose.Schema.Types.ObjectId,
